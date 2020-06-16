@@ -1,3 +1,4 @@
+package retos;
 import java.util.Scanner;
 
 public class Reto482 {
